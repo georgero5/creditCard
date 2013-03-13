@@ -12,6 +12,7 @@ Files:
 Execute the main.rb file
 If a file is given as an argument, it will check every card number on the file.
 Ex:
+
 $ ruby main.rb creditcards.txt
 Visa: 4111111111111111        (valid)
 Visa: 4111111111111           (invalid)
